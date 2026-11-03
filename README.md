@@ -8,8 +8,13 @@ Montei esta página para o processo seletivo do **iFood Gen IA**.
 
 ## O que você vai encontrar
 
-- **Relatório Gerencial de Produtividade:** a ferramenta que criei para registrar a rotina da equipe e acompanhar os resultados. É o meu case principal. [Abrir o relatório](https://rbernuzzi.github.io/relatorio-protocolos/) · [Visão da liderança](https://rbernuzzi.github.io/relatorio-protocolos/lideranca.html)
-- **Justina:** um chatbot de demonstração que responde dúvidas internas sobre cadastros, contratos e assinaturas. [Conversar com a Justina](https://rbernuzzi.github.io/justina/)
+- **Relatório Gerencial de Produtividade:**
+  
+A ferramenta que criei para registrar a rotina da equipe e acompanhar os resultados. É o meu case primário: [Abrir o relatório](https://rbernuzzi.github.io/relatorio-protocolos/) · [Visão da liderança](https://rbernuzzi.github.io/relatorio-protocolos/lideranca.html)
+
+- **Justina:**
+
+Um chatbot de demonstração que responde dúvidas internas de baixa complexidade. É o meu case secundário: [Conversar com a Justina](https://rbernuzzi.github.io/justina/)
 
 ## Vamos conversar?
 
