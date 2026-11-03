@@ -2,7 +2,7 @@
 
 Oi, eu sou a Rebecca! Estudo Direito na FMU e atuo com Ouvidoria e Defesa do Consumidor. No dia a dia, descobri que adoro usar tecnologia e inteligência artificial para deixar a rotina jurídica mais simples, e este portfólio reúne o que construí nesse caminho.
 
-Montei esta página para o processo seletivo da vaga **iFood IA Builder**.
+Montei esta página para o processo seletivo do **iFood Gen IA**.
 
 **Site:** https://rbernuzzi.github.io/portfolio/
 
