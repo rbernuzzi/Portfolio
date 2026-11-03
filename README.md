@@ -4,17 +4,17 @@ Oi, eu sou a Rebecca! Estudo Direito na FMU e atuo com Ouvidoria e Defesa do Con
 
 Montei esta página para o processo seletivo do **iFood Gen IA**.
 
-**Site:** https://rbernuzzi.github.io/portfolio/
+**Site:** https://rbernuzzi.github.io/Portfolio/
 
 ## O que você vai encontrar
 
 - **Relatório Gerencial de Produtividade:**
   
-A ferramenta que criei para registrar a rotina da equipe e acompanhar os resultados. É o meu case primário: [Abrir o relatório](https://rbernuzzi.github.io/relatorio-protocolos/) · [Visão da liderança](https://rbernuzzi.github.io/relatorio-protocolos/lideranca.html)
+A ferramenta que criei para registrar a rotina da equipe e acompanhar os resultados. É o meu case primário: [Abrir o relatório](https://rbernuzzi.github.io/Relatorio-Gerencial-de-Produtividade/) · [Visão da liderança](https://rbernuzzi.github.io/Relatorio-Gerencial-de-Produtividade/lideranca.html)
 
 - **Justina:**
 
-Um chatbot de demonstração que responde dúvidas internas de baixa complexidade. É o meu case secundário: [Conversar com a Justina](https://rbernuzzi.github.io/justina/)
+Um chatbot de demonstração que responde dúvidas internas de baixa complexidade. É o meu case secundário: [Conversar com a Justina](https://rbernuzzi.github.io/ChatBot-Justina/)
 
 ## Vamos conversar?
 
